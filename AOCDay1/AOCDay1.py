@@ -1,5 +1,5 @@
-f = open("AOCday1-input.txt", "r")
-#f = open("AOCday1-sample.txt", "r")
+f = open("Inputs\AOCday1-input.txt", "r")
+#f = open("Inputs\AOCday1-sample.txt", "r")
 
 # Declare array for summing
 arr=[]

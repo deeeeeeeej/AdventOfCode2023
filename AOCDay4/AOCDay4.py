@@ -1,7 +1,7 @@
 import re
 
-#f = open("AOCDay4/AOCday4-sample.txt", "r")
-f = open("AOCDay4/AOCday4-input.txt", "r")
+#f = open("Inputs/AOCday4-sample.txt", "r")
+f = open("Inputs/AOCday4-input.txt", "r")
 
 f = f.readlines()
 

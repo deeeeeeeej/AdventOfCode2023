@@ -1,6 +1,6 @@
 
-#f = open("AOCDay2/AOCday2-sample.txt", "r")
-f = open("AOCDay2/AOCday2-input.txt", "r")
+#f = open("Inputs/AOCday2-sample.txt", "r")
+f = open("Inputs/AOCday2-input.txt", "r")
 
 import re
 
